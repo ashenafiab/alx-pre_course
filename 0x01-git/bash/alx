@@ -4,3 +4,7 @@ alx school is so cool!
 =======
 alx school
 >>>>>>> bcad31676b6c829ee00e9b77f1b53255c9a3248d
+git pull origin master
+git checkout update_script
+git merge master
+git push -u origin update_script
